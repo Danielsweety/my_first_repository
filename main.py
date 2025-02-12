@@ -1,5 +1,6 @@
 import shapefile
 import shapely
+<<<<<<< HEAD
 import os
 
 
@@ -11,3 +12,5 @@ for file in file_list:
 #
 ##
 ###
+=======
+>>>>>>> parent of b72a95f (Update main.py)
